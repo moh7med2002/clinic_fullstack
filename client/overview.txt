@@ -1,0 +1,12 @@
+doctor :
+profile : user card
+appointments
+
+patient :
+profile : user card
+appointments
+transactions
+
+edit profile
+change password
+change email

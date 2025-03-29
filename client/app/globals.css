@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(240, 240, 240);  ;
+}
+
+/* tailwind css */
+.primary_btn {
+    @apply px-4 py-2 bg-primary text-white rounded-lg disabled:opacity-50
+}
+
+.link {
+  @apply w-fit block
+}
+
+.statisticsGrid{
+  @apply grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4
+}
+
+.headerParent{
+  @apply flex md:items-center md:justify-between mb-4 md:flex-row flex-col gap-y-3
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator,
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
