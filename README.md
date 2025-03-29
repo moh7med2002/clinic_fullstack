@@ -34,3 +34,14 @@ The **Dental Clinic Management System** is a web-based platform designed to stre
    npm install
    npm run dev
 
+### Screenshots
+Here are some screenshots from Store:
+
+![Screenshot 1](photos/1.png)
+![Screenshot 1](photos/2.png)
+![Screenshot 1](photos/3.png)
+![Screenshot 1](photos/4.png)
+![Screenshot 1](photos/5.png)
+![Screenshot 1](photos/6.png)
+![Screenshot 1](photos/7.png)
+
