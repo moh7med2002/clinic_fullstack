@@ -19,8 +19,8 @@ The **Dental Clinic Management System** is a web-based platform designed to stre
 ## 🛠️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dental-clinic-management.git
-   cd dental-clinic-management
+   git clone https://github.com/moh7med2002/clinic_fullstack.git
+   cd clinic_fullstack
    ```
 2. **Backend Setup:**
    ```bash
